@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "metro": [
+    {
+      "nombre": "Ruta45",
+      "sector": "Sur-norte",
+      "salida": "Quitumbe",
+      "llegada": "Labrador",
+      "maquinista": "Juan",
+      "detalles": "Prueba1234",
+      "id": "ace474f7-c625-4905-a94d-6dc972148b8f"
+    },
+    {
+      "nombre": "Ruta55",
+      "sector": "Sur-norte",
+      "salida": "Quitumbe",
+      "llegada": "Labrador",
+      "maquinista": "Byron",
+      "detalles": "12354",
+      "id": "cdd67c91-bd39-4fd9-9455-088450a8c0af"
+    }
+  ]
+}
